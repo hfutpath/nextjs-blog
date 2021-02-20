@@ -23,7 +23,9 @@
   "directories": {
     "lib": "lib"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "postcss": "^8.2.6"
+  },
   "author": "",
   "license": "ISC"
 }
